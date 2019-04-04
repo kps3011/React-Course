@@ -1,3 +1,4 @@
+//weather api
 var axios = require('axios')
 
 const WEATHER_URL = 'http://api.openweathermap.org/data/2.5/weather?appid=6e178c7212979e56db64138da346435c'
